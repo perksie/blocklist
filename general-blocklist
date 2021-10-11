@@ -1,6 +1,7 @@
 ----------------[INFO]------------------
 Simple list used for PiHole.
-
+These are all links deemed malicious by me through my own travels OR
+there is a few that a QoL ones for myself like the 'zscaler' domain
 ----------------------------------------
 
 0.0.0.0 bestdateshere22.com
@@ -15,3 +16,10 @@ Simple list used for PiHole.
 0.0.0.0 lambingsyddir.com
 0.0.0.0 wirelesssolution.asia
 0.0.0.0 shaely.fr
+0.0.0.0 2021pro1.info
+0.0.0.0 dateshookp.com
+0.0.0.0 boulevardcaravanpark.com.au
+0.0.0.0 koosheshtools.com
+0.0.0.0 prerov.cuscz.cz
+0.0.0.0 tonex.com
+0.0.0.0 jkfun.cn
