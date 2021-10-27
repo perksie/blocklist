@@ -1,4 +1,6 @@
------------------------------------------
-A list of IP addresses I have deemed to be malicious.
-This is usually through honeypot research.
--------------------------------------------
+#-----------------------------------------
+#A list of IP addresses I have deemed to be malicious.
+#This is usually through honeypot research.
+#-------------------------------------------
+194.85.249.85
+91.208.197.236
