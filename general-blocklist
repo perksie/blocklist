@@ -1,7 +1,7 @@
 ----------------[INFO]------------------
 Simple list used for PiHole.
-These are all links deemed malicious by me through my own travels OR
-there is a few that a QoL ones for myself like the 'zscaler' domain
+These are all links deemed malicious by me through my own travels (usualy honeypot results) OR
+there is a few that are QoL ones for myself like the 'zscaler' domain
 ----------------------------------------
 
 0.0.0.0 bestdateshere22.com
@@ -46,3 +46,4 @@ there is a few that a QoL ones for myself like the 'zscaler' domain
 0.0.0.0 ziemscy.pl
 0.0.0.0 pccompanyindia.in
 0.0.0.0 drip-net.cc
+0.0.0.0 hugecockinsideyourmom.store
